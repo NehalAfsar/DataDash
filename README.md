@@ -1,4 +1,4 @@
-# Data Dashboard Tool
+# Data Dash - (Dashboard Creator)
 
 A comprehensive web-based dashboard tool for uploading CSV/Excel files and creating interactive data visualizations.
 
@@ -160,5 +160,6 @@ For issues or questions:
 ---
 
 **Happy Data Visualization!** 📊✨
+
 
 
